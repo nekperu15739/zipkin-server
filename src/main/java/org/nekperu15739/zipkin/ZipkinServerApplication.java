@@ -7,7 +7,7 @@ import zipkin.server.EnableZipkinServer;
 
 /**
  * 
- * @author cycz
+ * @author nekperu15739
  *
  */
 @EnableZipkinServer
